@@ -1,7 +1,7 @@
 # SOC Incident Response Playbook
 ### Detection Engineering & Incident Analysis Framework
 
-**Van Helsing Team | Green Circle × Q2Impact**  
+**Van Helsing Team | Green Circle × Q2Impact × USAID**  
 **Ranked #1 among all competing groups**
 
 ---
@@ -66,5 +66,5 @@ This is not a theoretical document. Each playbook entry includes a working Splun
 | Ayat Haitham Khalaf Al-Hamimat |
 
 **Supervisor:** Eng. Tareq Obeidat  
-**Program:** SOC Analyst Training — Green Circle × Q2Impact  
+**Program:** SOC Analyst Training — Green Circle × Q2Impact × USAID
 **Date:** February 2026
